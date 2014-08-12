@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">SignUpForm</string>
+  <string name="main_text_welcome">You made it to the main page %s!</string>
+  <string name="main_text_clear">clear sign up information</string>
+  <string name="signup_hint_enter_name">Enter Name</string>
+  <string name="signup_button_save">save</string>
+
+</resources>
