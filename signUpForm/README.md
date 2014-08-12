@@ -11,5 +11,8 @@ if not let me know and I will explain in more detail
 
 ### Solution
 
-An initial activity that detects if the form has been filled in. If it has it redirects straight to the second screen (main)
-else is redirects them to the form to fill in (sign up).
+[blog.blundell-apps.com/activity-to-complete-a-form-or-continue](http://blog.blundell-apps.com/a-simple-activity-to-complete-a-form-or-continue/)
+
+An initial activity that detects if the form has been filled in. 
+If it has it sends straight to the second screen (main)
+else it sends them to the form to fill in (sign up).
